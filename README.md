@@ -3,8 +3,11 @@
 Código de mi website personal http://valeriobarreto.com 
 
 Creado con:
-*Angular CLI https://github.com/angular/angular-cli
-*Angular Material https://github.com/angular/material2
+
+#Angular CLI 
+https://github.com/angular/angular-cli
+#Angular Material 
+https://github.com/angular/material2
 
 Para instalar las dependecias se debe ejecutar el comando 
 
