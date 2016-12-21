@@ -1,9 +1,17 @@
 # Ng2WebsitePersonal
 
-Código de mi website personal (http://valeriobarreto.com) creado con Angular CLI (https://github.com/angular/angular-cli) y Angular Material (https://github.com/angular/material2)
+Código de mi website personal http://valeriobarreto.com 
 
-Para instalar las dependecias se debe ejecutar el comando `npm install`
+Creado con:
+*Angular CLI https://github.com/angular/angular-cli
+*Angular Material https://github.com/angular/material2
 
-Y posteriormente ejecutar el comando `ng serve`
+Para instalar las dependecias se debe ejecutar el comando 
 
-Y abrimos en nuestro navegador la dirección (http://localhost:42000) para visualizar el contenido
+`npm install`
+
+Y posteriormente ejecutar el comando 
+
+`ng serve`
+
+Y abrimos en nuestro navegador la dirección  http://localhost:4200 para visualizar el contenido.
